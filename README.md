@@ -10,7 +10,6 @@
 ### Installation
 
 - Navigate to http://localhost:5000/ to view the list of persons.
-- Click on "Add Person" to add a new person.
-- Edit or delete persons using the provided buttons.
-- Change Page if people more than 5.
-- Search Person functionality.
+- Click on "Add Whsikey" to add a new whiskey.
+- Edit or delete whiskey using the provided buttons.
+- Search Whiskey functionality.
